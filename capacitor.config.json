@@ -1,7 +1,7 @@
 {
   "appId": "com.spacecityx.humanizer",
   "appName": "Humanizer",
-  "webDir": ".",
+  "webDir": "www",
   "server": {
     "androidScheme": "https"
   }
